@@ -1,1 +1,1 @@
-# Entity-Component-System Structure(using SDL2)
+# Entity-Component-System Structure
